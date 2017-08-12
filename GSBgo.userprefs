@@ -1,29 +1,21 @@
 ﻿<Properties StartupConfiguration="{718C1F8C-B5DC-4B12-8587-6355988DA407}|Default">
   <MonoDevelop.Ide.ItemProperties.GSBgo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.cdbb956e19f00d310b0dc09db99f27c0a181cafa" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GSBgo/ViewModels/HomePageViewModel.cs">
-    <Files>
-      <File FileName="Droid/MainActivity.cs" Line="2" Column="20" />
-      <File FileName="GSBgo/Views/HomePage.xaml" Line="4" Column="28" />
-      <File FileName="GSBgo/Views/HomePage.xaml.cs" Line="22" Column="10" />
-      <File FileName="GSBgo/ViewModels/RoomsPageViewModel.cs" Line="10" Column="54" />
-      <File FileName="GSBgo/ViewModels/HomePageViewModel.cs" Line="5" Column="6" />
-      <File FileName="GSBgo/ViewModels/BaseViewModel.cs" Line="20" Column="37" />
-      <File FileName="GSBgo/ViewModels/ChildViewModelBase.cs" Line="8" Column="36" />
-      <File FileName="GSBgo/Views/RoomsPage.xaml" Line="6" Column="15" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GSBgo" expanded="True">
             <Node name="GSBgo" expanded="True">
-              <Node name="Packages" expanded="True" />
+              <Node name="Business" expanded="True" />
               <Node name="ViewModels" expanded="True">
-                <Node name="HomePageViewModel.cs" selected="True" />
+                <Node name="DigestPageViewModel.cs" selected="True" />
               </Node>
               <Node name="Views" expanded="True">
+                <Node name="DigestPage.xaml" expanded="True" />
                 <Node name="HomePage.xaml" expanded="True" />
                 <Node name="RoomsPage.xaml" expanded="True" />
               </Node>
+              <Node name="App.xaml" expanded="True" />
             </Node>
             <Node name="GSBgo.Droid" expanded="True">
               <Node name="Properties" expanded="True" />

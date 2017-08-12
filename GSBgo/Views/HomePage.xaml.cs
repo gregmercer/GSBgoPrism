@@ -20,7 +20,8 @@ namespace GSBgo.Views
 
         public void OnNavigatingTo(NavigationParameters parameters)
         {
-			AddChild("RoomsPage", parameters);
+			AddChild("DigestPage", parameters);
+            AddChild("RoomsPage", parameters);
         }
 
 		private void AddChild(string name, NavigationParameters parameters)

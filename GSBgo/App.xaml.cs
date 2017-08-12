@@ -20,6 +20,7 @@ namespace GSBgo
 			Container.RegisterTypeForNavigation<NavigationPage>();
             Container.RegisterTypeForNavigation<HomePage>();
 			Container.RegisterTypeForNavigation<RoomsPage>();
+			Container.RegisterTypeForNavigation<DigestPage>();
 		}
 	}
 }
